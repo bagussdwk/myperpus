@@ -1,0 +1,18 @@
+__ci_last_regenerate|i:1689322545;_ci_previous_url|s:48:"http://localhost:8080/index.php/admin/tambahbuku";logged_in|s:1:"5";error|s:566:"<!-- DEBUG-VIEW START 1 SYSTEMPATH\Validation\Views\list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>judul wajib di isi!</li>
+					<li>kategori wajib di isi!</li>
+					<li>penerbit wajib di isi!</li>
+					<li>pengarang wajib di isi!</li>
+					<li>isbn wajib di isi!</li>
+					<li>jumlah_buku wajib di isi!</li>
+					<li>jumlah_stok wajib di isi!</li>
+					<li>tahun_terbit wajib di isi!</li>
+					<li>sinopsis wajib di isi!</li>
+					<li>gambar wajib di isi!</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH\Validation\Views\list.php -->
+";__ci_vars|a:1:{s:5:"error";s:3:"new";}
